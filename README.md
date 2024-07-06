@@ -1,7 +1,7 @@
 
 # DevOps Roadmap for Juniors
 
-```
+
 |---> **1. Learn Programming Languages**
 |       |---> [Python](https://www.learnpython.org/)
 |       |---> Golang
@@ -91,7 +91,7 @@
         |---> OpenStack
         |---> Alibaba Cloud
         |---> IBM Bluemix
-```
+
 
 ## How to Use This Roadmap
 
