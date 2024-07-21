@@ -3,6 +3,8 @@
 ![devops roadmap](https://github.com/user-attachments/assets/e1cafdc9-d54e-4f6f-964c-995d547d48c5)
 
 
+
+
 ## Recommended RoadMap:
 
 Follow the Roadmap: 
@@ -26,6 +28,7 @@ Follow the Roadmap:
 17. Resume and LinkedIn Profile Fixing
 18. Starting Applying for Jobs
 ```
+
 
 ## Links to Resources (For Egyptian)
 - ITI 9 months program (Cloud Platform Development): https://iti.gov.eg/ 
